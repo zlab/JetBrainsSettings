@@ -3,13 +3,18 @@
     <property name="created">2018-09-29T09:02:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-29T09:38:14</property>
+    <property name="modified">2018-10-31T09:17:05</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -41,6 +46,13 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+        <option name="BACKGROUND" value="ecfaeb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
