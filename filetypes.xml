@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="mpx" type="Vue.js" />
+      <mapping ext="nvue" type="Vue.js" />
       <mapping ext="wxml" type="Vue.js" />
+      <mapping ext="mpx" type="Vue.js" />
       <removed_mapping ext="wxml" approved="true" type="XHTML" />
     </extensionMap>
   </component>
